@@ -1,0 +1,8 @@
+# Dev Directories
+.vscode
+node_modules
+out
+
+# Private Files
+key.*
+*.pem
