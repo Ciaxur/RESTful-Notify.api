@@ -1,4 +1,4 @@
-## RESTful-Notfy.api
+## RESTful-Notify.api
 Simple Microservice API that allows push notifications on Linux running a Notfication Daemon.
 
 ---
