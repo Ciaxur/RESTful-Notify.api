@@ -66,5 +66,5 @@ axios.post('http://192.168.0.2:3000/api/v1/notify', {
 npm start
 ```
 
-### 🚀 License
+### 📑 License
 Licensed under the [MIT License](LICENSE).
